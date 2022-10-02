@@ -51,13 +51,13 @@ nav ul li:hover {
 .page-content header h1 {
 	margin: 0;
 	text-transform: uppercase;
-	font-family: 'Oswald', sans-serif;
+	font-family:  "Arial", Times, serif;
 	font-size: 4em;
 }
 .page-content header p {
 	line-height: 30px;
 	color:black;
-    font-family: 'Oswald', sans-serif;
+    font-family:  "Arial", Times, serif;
 	font-size: 2em;
 }
 .page-content header button {
